@@ -1,0 +1,22 @@
+# Basic data processing
+pandas
+numpy
+
+# Web scraping
+requests
+beautifulsoup4
+
+# NLP libraries
+nltk
+spacy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Progress tracking
+tqdm
+
+#Download the spaCy English language model with: python -m spacy download en_core_web_sm
